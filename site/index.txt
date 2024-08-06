@@ -1,8 +1,8 @@
 # Index
 
-Here are _two_ links:
+Here are _some_ links:
 
 * ^./test.html The other page on this site^
 * ^https://en.wikipedia.org/wiki/Otter Wikipedia article about otters^
-
-
+* ^https://github.com/Glorp/smolmark-ssg Repo on GitHub^
+* ^https://garoof.no/notes/sitebuilding.html Blag post about the thing^
